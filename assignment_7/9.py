@@ -1,6 +1,6 @@
 str=input("Enter a string: ")
-parttern=input("Enter The Pattern:")
-for parttern in str:
+pattern=input("Enter The Pattern:")
+for pattern in str:
     print("Pattern Found.")
     break
 else:
